@@ -10,11 +10,13 @@ public class TestGit {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("Hello Git");
+        //Hello Git
     }
 
     public static void add() {
         int i = 0;
         i += 10;
+        System.out.println(i);
     }
 
 }
